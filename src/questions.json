@@ -1,0 +1,113 @@
+[
+  {
+    "numb": 1,
+    "question": "Which year was Myntra founded?",
+    "answer": "2007",
+    "options": [
+      "2005",
+      "2006",
+      "2007",
+      "2008"
+    ]
+  },
+  {
+    "numb": 2,
+    "question": "Which company acquired Myntra in 2014?",
+    "answer": "Flipkart",
+    "options": [
+      "Amazon",
+      "Snapdeal",
+      "Flipkart",
+      "eBay"
+    ]
+  },
+  {
+    "numb": 3,
+    "question": "What does 'Myntra' primarily sell?",
+    "answer": "Fashion and lifestyle products",
+    "options": [
+      "Electronics",
+      "Books",
+      "Fashion and lifestyle products",
+      "Groceries"
+    ]
+  },
+  {
+    "numb": 4,
+    "question": "Which of these is a popular private label brand by Myntra?",
+    "answer": "Roadster",
+    "options": [
+      "Roadster",
+      "Allen Solly",
+      "Nike",
+      "Levi's"
+    ]
+  },
+  {
+    "numb": 5,
+    "question": "Which fashion trend is currently popular in 2024?",
+    "answer": "Sustainable fashion",
+    "options": [
+      "Fast fashion",
+      "Minimalism",
+      "Sustainable fashion",
+      "Bohemian style"
+    ]
+  },
+  {
+    "numb": 6,
+    "question": "What is the term for a fashion show presented virtually using digital models?",
+    "answer": "Virtual runway",
+    "options": [
+      "Digital catwalk",
+      "Virtual runway",
+      "Online fashion show",
+      "E-catwalk"
+    ]
+  },
+  {
+    "numb": 7,
+    "question": "Which of the following is an emerging technology in fashion retail?",
+    "answer": "Augmented reality try-ons",
+    "options": [
+      "Augmented reality try-ons",
+      "Textile printing",
+      "Fast fashion",
+      "Tailoring"
+    ]
+  },
+  {
+    "numb": 8,
+    "question": "What is a key benefit of sustainable fashion?",
+    "answer": "Reducing environmental impact",
+    "options": [
+      "Lower costs",
+      "Faster production",
+      "Reducing environmental impact",
+      "More trendy designs"
+    ]
+  },
+  {
+    "numb": 9,
+    "question": "Which of these is a popular sustainable fashion material?",
+    "answer": "Organic cotton",
+    "options": [
+      "Polyester",
+      "Organic cotton",
+      "Nylon",
+      "Acrylic"
+    ]
+  },
+  {
+    "numb": 10,
+    "question": "Which fashion industry practice focuses on recycling and reusing materials?",
+    "answer": "Circular fashion",
+    "options": [
+      "Circular fashion",
+      "Fast fashion",
+      "Vintage fashion",
+      "Minimalist fashion"
+    ]
+  }
+]
+
